@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pager", "Pager\Pager.csproj", "{09EA6E14-C081-422D-A042-D4957BD1B9CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pager.Test", "Pager.Test\Pager.Test.csproj", "{7FFC4C68-A2E4-4F5A-82C9-F38AE8F623DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09EA6E14-C081-422D-A042-D4957BD1B9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09EA6E14-C081-422D-A042-D4957BD1B9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09EA6E14-C081-422D-A042-D4957BD1B9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09EA6E14-C081-422D-A042-D4957BD1B9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FFC4C68-A2E4-4F5A-82C9-F38AE8F623DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FFC4C68-A2E4-4F5A-82C9-F38AE8F623DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FFC4C68-A2E4-4F5A-82C9-F38AE8F623DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FFC4C68-A2E4-4F5A-82C9-F38AE8F623DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
